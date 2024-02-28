@@ -24,6 +24,7 @@
     <!-- <li><NuxtLink to="/contact">Contact Us</NuxtLink></li> -->
   </ul>
   <i class="bi bi-list mobile-nav-toggle"></i>
+  
 </nav><!-- .navbar -->
 
 </div>
