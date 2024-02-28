@@ -3,7 +3,17 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   nitro: {
     prerender: {
-      autoSubfolderIndex: false
+      autoSubfolderIndex: false,
+      modules: [
+        '@nuxt/content'
+      ],
+      content: {
+        // ... options
+      }
     }
   }
-})
+}
+)
+
+
+
