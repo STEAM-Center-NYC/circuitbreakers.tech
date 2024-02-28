@@ -16,7 +16,7 @@
 <nav id="navbar" class="navbar">
   <ul>
     <li><NuxtLink class="" to="/">Home</NuxtLink></li>
-    <!-- <li><NuxtLink class="active" to="/about">About</NuxtLink></li> -->
+    <li><NuxtLink class="active" to="/aboutus">About</NuxtLink></li>
     <!-- <li><NuxtLink to="/services">Services</NuxtLink></li> -->
     <!-- <li><NuxtLink to="/portfolio">Portfolio</NuxtLink></li> -->
     <!-- <li><NuxtLink to="/team">Team</NuxtLink></li> -->
