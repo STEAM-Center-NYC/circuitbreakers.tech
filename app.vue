@@ -10,7 +10,7 @@ useHead({
   </header>
   <nav>
     <NuxtLink to="/">Home</NuxtLink>
-    <!-- <NuxtLink to="/about-us">About Us</NuxtLink> -->
+    <NuxtLink to="/aboutus">About Us</NuxtLink>
     <!-- <NuxtLink to="/team">Team</NuxtLink> -->
     <!-- <NuxtLink to="/contact-us">Contact</NuxtLink> -->
     <!-- <NuxtLink to="/projects">Our Projects</NuxtLink> -->
