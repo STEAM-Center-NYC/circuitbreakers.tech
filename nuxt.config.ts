@@ -5,5 +5,11 @@ export default defineNuxtConfig({
     prerender: {
       autoSubfolderIndex: false
     }
+  },
+  modules: [
+    '@nuxt/content'
+  ],
+  content: {
+    // ... options
   }
 })
