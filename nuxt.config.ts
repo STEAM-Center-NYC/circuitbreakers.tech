@@ -5,13 +5,6 @@ export default defineNuxtConfig({
     prerender: {
       autoSubfolderIndex: false
     }
-<<<<<<< HEAD
-  },modules: [
-    '@nuxt/content'
-  ],
-  content: {
-    // ... options
-=======
   },
 
   app: {
@@ -38,6 +31,5 @@ export default defineNuxtConfig({
         {href: '/assets/css/style.css', rel: 'stylesheet'}
       ]
     }
->>>>>>> origin/main
   }
 })
