@@ -117,60 +117,6 @@
         </div>
       </section><!-- End Our Skills Section -->
     </main>
-
-    <!-- ======= Footer ======= -->
-    <footer id="footer" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
-      <div class="footer-top">
-        <div class="container">
-          <div class="row">
-
-            <div class="col-lg-3 col-md-6 footer-links">
-              <h4>Useful Links</h4>
-              <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Projects</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Team</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Contact</a></li>
-              </ul>
-            </div>
-
-            <div class="col-lg-3 col-md-6 footer-links">
-              <h4>Our Services</h4>
-              <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Project Management</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-              </ul>
-            </div>
-
-            <div class="col-lg-3 col-md-6 footer-contact">
-              <h4>Contact Us</h4>
-              <p>
-                141 Flushing Avenue <br>
-                New York, NY 11205<br>
-                United States <br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> fsd-22@brooklynsteamcenter.org<br>
-              </p>
-
-            </div>
-
-            <div class="col-lg-3 col-md-6 footer-info">
-              <h3>About Circuit Breakers</h3>
-              <p>We are members in the Brooklyn Steam Center's CSIT program. This is the first year that we have two
-                distinct paths. We are divided into two big areas in the IT industry: Cyber Security and Full Stack
-                Development. These two roads lead to these two major industries. Even though we are divided into two
-                distinct sectors, we nevertheless work together on certain initiatives, which ties us all into one big
-                community. Together, we will use information technology and computer science to establish a solid
-                foundation in the field of computing.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer><!-- End Footer -->
   </div>
 </template>
   
@@ -190,23 +136,12 @@ export default {
         "/assets/img/aboutus/unnamed (8).jpg",
         "/assets/img/aboutus/unnamed (9).jpg",
       ],
-      currentIndex: 0,
     };
-  },
-  computed: {
-    currentImage() {
-      return this.images[this.currentIndex];
-    },
-  },
-  mounted() {
-    setInterval(() => {
-      this.currentIndex = (this.currentIndex + 1) % this.images.length;
-    }, 3000); // Change image every 3 seconds
   },
 };
 </script>
-  
-<style scoped>
+
+<style>
 .carousel-item {
   transition: transform 1.5s ease-in-out;
 }
