@@ -25,7 +25,7 @@
               <div class="col-lg-6 pt-4 pt-lg-0">
                 <h3>Circuit Breakers</h3>
                 <p class="fst-italic">
-                  Greetings, this is Circuit Breakers! We are seniors presently enrolled at the Brooklyn STEAM Center from various residential high schools. Working with several web frameworks such as:
+                  Greetings, and we are the Circuit Breakers! We are seniors presently enrolled at the Brooklyn STEAM Center coming from various residential high schools. 
                 </p>
                 <ul>
                   <li><i class="bi bi-check2-circle"></i> HTML/CSS</li>
@@ -34,8 +34,7 @@
                   <li><i class="bi bi-check2-circle"></i> Vue</li>
                   <li><i class="bi bi-check2-circle"></i> Flask</li>
                 </ul>
-                <p>
-                  All of us Circuit Breakers have been busy writing our own projects! From constructing stopwatches and ToDo apps to making our own websites! 
+                <p> 
                 </p>
               </div>
             </div>
@@ -71,27 +70,34 @@
           <div class="container">
             <div class="section-title">
               <h2>Our Skills</h2>
-              <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+              <p>What languages and web frameworks we've learned:</p>
             </div>
             <div class="skills-content">
               <div class="progress">
-                <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-                  <span class="skill">HTML <i class="val">100%</i></span>
+                <div class="progress-bar bg-light" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                  <div class="text-secondary">
+                  <span class="skill">HTML </span>
+                  </div>
                 </div>
               </div>
               <div class="progress">
-                <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-                  <span class="skill">CSS <i class="val">90%</i></span>
+                <div class="progress-bar bg-dark" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                  <span class="skill">CSS </span>
                 </div>
               </div>
               <div class="progress">
-                <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                  <span class="skill">JavaScript <i class="val">75%</i></span>
+                <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                  <span class="skill">JavaScript </span>
                 </div>
               </div>
               <div class="progress">
-                <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
-                  <span class="skill">Photoshop <i class="val">55%</i></span>
+                <div class="progress-bar bg-success" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                  <span class="skill">Vue </span>
+                </div>
+              </div>
+              <div class="progress">
+                <div class="progress-bar bg-info" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                  <span class="skill">Python/NB </span>
                 </div>
               </div>
             </div>
@@ -163,87 +169,6 @@
           </div>
         </section><!-- End Testimonials Section -->
       </main>
-  
-      <!-- Footer -->
-      <footer id="footer" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
-        <div class="footer-newsletter">
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-6">
-                <h4>Our Newsletter</h4>
-                <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-              </div>
-              <div class="col-lg-6">
-                <form action="" method="post">
-                  <input type="email" name="email"><input type="submit" value="Subscribe">
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- Footer Top -->
-        <div class="footer-top">
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-3 col-md-6 footer-links">
-                <h4>Useful Links</h4>
-                <ul>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-                </ul>
-              </div>
-              <div class="col-lg-3 col-md-6 footer-links">
-                <h4>Our Services</h4>
-                <ul>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-                </ul>
-              </div>
-              <div class="col-lg-3 col-md-6 footer-contact">
-                <h4>Contact Us</h4>
-                <p>
-                  A108 Adam Street <br>
-                  New York, NY 535022<br>
-                  United States <br><br>
-                  <strong>Phone:</strong> +1 5589 55488 55<br>
-                  <strong>Email:</strong> info@example.com<br>
-                </p>
-              </div>
-              <div class="col-lg-3 col-md-6 footer-info">
-                <h3>About Moderna</h3>
-                <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
-                <div class="social-links mt-3">
-                  <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                  <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                  <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                  <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- Footer Bottom -->
-        <div class="container d-md-flex py-4">
-          <div class="me-md-auto text-center text-md-start">
-            <div class="credits">
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-            </div>
-          </div>
-          <div class="social-links text-center text-md-end pt-3 pt-md-0">
-            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-          </div>
-        </div>
-      </footer><!-- End Footer -->
     </div>
   </template>
   
