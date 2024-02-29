@@ -16,11 +16,11 @@
 <nav id="navbar" class="navbar">
   <ul>
     <li><NuxtLink class="" to="/">Home</NuxtLink></li>
-    <!-- <li><NuxtLink class="active" to="/about">About</NuxtLink></li> -->
-    <!-- <li><NuxtLink to="/services">Services</NuxtLink></li> -->
-    <!-- <li><NuxtLink to="/portfolio">Portfolio</NuxtLink></li> -->
-    <!-- <li><NuxtLink to="/team">Team</NuxtLink></li> -->
-    <!-- <li><NuxtLink to="/blog">Blog</NuxtLink></li> -->
+    <li><NuxtLink class="active" to="/about">About</NuxtLink></li> -->
+    <li><NuxtLink to="/services">Services</NuxtLink></li> -->
+    <li><NuxtLink to="/portfolio">Portfolio</NuxtLink></li> -->
+    <li><NuxtLink to="/team">Team</NuxtLink></li> -->
+    <li><NuxtLink to="/blog">Blog</NuxtLink></li> -->
     <li><NuxtLink to="/contact">Contact Us</NuxtLink></li>
   </ul>
   <i class="bi bi-list mobile-nav-toggle"></i>
