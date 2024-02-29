@@ -34,7 +34,7 @@
                   <li><i class="bi bi-check2-circle"></i> Science Skills Center High School</li>
                   <li><i class="bi bi-check2-circle"></i> S.T.A.R Early College High School</li>
                   <li><i class="bi bi-check2-circle"></i> Boys And Girls High School</li>
-                  <li><i class="bi bi-check2-circle"></i>George Westinghouse Career And Technical High School </li>
+                  <li><i class="bi bi-check2-circle"></i>George Westinghouse Career And Technical High School</li>
                 </ul>
                 <p>
                   All of us Circuit Breakers have been busy writing our own projects! From constructing stopwatches and ToDo apps to making our own websites! 
