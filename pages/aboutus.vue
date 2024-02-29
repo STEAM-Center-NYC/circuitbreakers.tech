@@ -206,6 +206,8 @@ export default {
 };
 </script>
   
-<style scoped>.carousel-item {
+<style scoped>
+.carousel-item {
   transition: transform 1.5s ease-in-out;
-}</style>
+}
+</style>
