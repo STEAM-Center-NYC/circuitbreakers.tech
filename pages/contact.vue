@@ -76,14 +76,14 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>141 Flushing Avenue Brooklyn New York</p>
+                  <p>141 Flushing Avenue, Brooklyn, New York</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>fsd-22@brooklysteamcenter.org<!--<br>contact@example.com--></p>
+                  <p><a id="oompaloompa" target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpDfrfqVnkxqbWmdfHMQfCbbrrffqFJwnhlVlzszbgRWWFmkMhdDGsLvqBplgrsdZhchQb">fsd-22@brooklynsteamcenter.org</a><!--<br>contact@example.com--></p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -214,6 +214,11 @@
   }
 
 */
+
+#oompaloompa {
+  text-decoration: none;
+  color: rgb(107, 107, 107);
+}
 
 </style>
 
