@@ -1,7 +1,7 @@
 ---
 picture:  '/team/adrian.png'
 linkedin: "https://www.linkedin.com/in/adrian-chen01/"
-websites: "https://adrianc167.github.io"
+website: "https://adrianc167.github.io"
 name: "Adrian Chen"
 team: "TEAM PAGE "
 ---
