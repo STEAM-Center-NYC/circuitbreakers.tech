@@ -52,8 +52,7 @@
                 <p>Clients</p>
               </div>
               <div class="col-lg-3 col-6 text-center">
-                <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Projects</p>
+                <a><NuxtLink class="active" to="/projects">Projects</NuxtLink></a>
               </div>
               <div class="col-lg-3 col-6 text-center">
                 <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
@@ -212,8 +211,8 @@
                   A108 Adam Street <br>
                   New York, NY 535022<br>
                   United States <br><br>
-                  <strong>Phone:</strong> +1 5589 55488 55<br>
-                  <strong>Email:</strong> info@example.com<br>
+                  <strong>Phone:</strong> +1 347-464-3680<br>
+                  <strong>Email:</strong> info@BrooklynSTEAMcenter.org<br>
                 </p>
               </div>
               <div class="col-lg-3 col-md-6 footer-info">
