@@ -2,9 +2,9 @@
 const { data } = await useAsyncData('home', () => queryContent('/team').find())
 </script>
 
-<template>
-    <h1>people:</h1>
+<template>    
 
+<h1>people:</h1>
 <div v-for="values in data">
     <img :src="values.picture">
     {{ values.name }}
@@ -12,9 +12,7 @@ const { data } = await useAsyncData('home', () => queryContent('/team').find())
     {{ values.linkedin }}
     {{ values.description }}
 </div>
-  <pre>
 
-  </pre>
 </template>
 
 <style scoped>
@@ -27,3 +25,4 @@ padding-bottom:15px;
 
 }
 </style>
+
