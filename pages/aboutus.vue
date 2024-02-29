@@ -27,24 +27,21 @@
               </div>
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0">
-              <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+              <h3>Circuit Breakers</h3>
               <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore
-                magna aliqua.
+                Greetings, this is Circuit Breakers! We are seniors presently enrolled at the Brooklyn STEAM Center from various residential high schools such as:
               </p>
               <ul>
-                <li><i class="bi bi-check2-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="bi bi-check2-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="bi bi-check2-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla
-                  pariatur.</li>
+                <li><i class="bi bi-check2-circle"></i> The High School For Global Citizenship</li>
+                <li><i class="bi bi-check2-circle"></i> Medgar Evers College Preparatory School</li>
+                  <li><i class="bi bi-check2-circle"></i> Benjamin Banneker Academy</li>
+                  <li><i class="bi bi-check2-circle"></i> Science Skills Center High School</li>
+                  <li><i class="bi bi-check2-circle"></i> S.T.A.R Early College High School</li>
+                  <li><i class="bi bi-check2-circle"></i> Boys And Girls High School</li>
+                  <li><i class="bi bi-check2-circle"></i>George Westinghouse Career And Technical High School </li>
               </ul>
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum
+                All of us Circuit Breakers have been busy writing our own projects! From constructing stopwatches and ToDo apps to making our own websites!
               </p>
             </div>
           </div>
