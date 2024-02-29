@@ -1,5 +1,7 @@
+---
 picture: '/team/christina.jpag'
 linkedin: 'https://www.linkedin.com/in/christina-beckford-a511a5274/'
 website: 'https://chr1ssy44.github.io'
 name: 'Christina Beckford'
 team: 'TEAM PAGE'
+---
