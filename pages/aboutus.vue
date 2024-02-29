@@ -51,6 +51,28 @@
         </div>
       </section><!-- End About Us Section -->
       
+
+      <!-- Facts Section -->
+      <section class="facts section-bg" data-aos="fade-up">
+        <div class="container">
+          <div class="row counters">
+            <div class="col-lg-3 col-6 text-center">
+              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Clients</p>
+            </div>
+            <div class="col-lg-3 col-6 text-center">
+              <p></p>
+            </div>
+            <div class="col-lg-3 col-6 text-center"></div>
+
+            <div class="col-lg-3 col-6 text-center">
+              <a><NuxtLink class="active" to="/projects">Projects</NuxtLink></a>
+            </div>
+          </div>
+        </div>
+        </section>
+
+
       <!-- Our Skills Section -->
       <section class="skills" data-aos="fade-up">
         <div class="container">
