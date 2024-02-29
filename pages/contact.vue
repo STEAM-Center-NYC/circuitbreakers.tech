@@ -105,7 +105,7 @@
                   <div class="sent-message">Your message has been sent. Thank you!</div>
                 </div>
                 <div class="text-center"><button type="submit">Send Message</button></div>
-                <input name="send-to" value="cjohn@brooklynsteamcenter.org" hidden>
+                <input name="send-to" value="fsd-22@brooklynsteamcenter.org" hidden>
               </form>
             </div>
 
@@ -167,32 +167,15 @@
             </div>
 
             <div class="col-lg-3 col-md-6 footer-info">
-              <h3>About Moderna</h3>
+              <h3>About Circuit Breakers</h3>
               <p>We are members in the Brooklyn Steam Center's CSIT program. This is the first year that we have two distinct paths. We are divided into two big areas in the IT industry: Cyber Security and Full Stack Development. These two roads lead to these two major industries. Even though we are divided into two distinct sectors, we nevertheless work together on certain initiatives, which ties us all into one big community. Together, we will use information technology and computer science to establish a solid foundation in the field of computing.</p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
             </div>
 
           </div>
         </div>
       </div>
 
-      <div class="container">
-        <div class="copyright">
-          &copy; Copyright <strong><span>Moderna</span></strong>. All Rights Reserved
-        </div>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-        </div>
-      </div>
+     
     </footer><!-- End Footer -->
 
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
