@@ -5,4 +5,4 @@ website: 'https://ShamourV.github.io'
 name: 'Shamour Vassell'
 ---
 
-Hi I am Shamour Vassell. I am beasthan.
+Hi I am Shamour Vassell. I am beasthan. Life be difficult.So
