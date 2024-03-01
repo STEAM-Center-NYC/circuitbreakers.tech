@@ -15,7 +15,6 @@
           <li><NuxtLink to="/services">Services</NuxtLink></li>
           <li><NuxtLink to="/portfolio">Portfolio</NuxtLink></li>
           <li><NuxtLink to="/team">Team</NuxtLink></li>
-          <li><NuxtLink to="/blog">Blog</NuxtLink></li>
           <li><NuxtLink to="/contact">Contact Us</NuxtLink></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
