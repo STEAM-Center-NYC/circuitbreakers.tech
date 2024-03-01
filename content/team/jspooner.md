@@ -1,7 +1,8 @@
 ---
-picture:'/team/jerome.png'
-linkedin:'https://www.linkedin.com/in/jerome-spooner-609217266/'
+picture: '/team/jerome.png'
+linkedin: 'https://www.linkedin.com/in/jerome-spooner-609217266/'
 website: 'https://romerome2.github.io/index.html'
-name:'Jerome Spooner'
+name: 'Jerome Spooner'
 team: ''
 ---
+Hi i'm jerome
