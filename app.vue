@@ -36,13 +36,13 @@
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Useful Links</h4>
         <ul>
-          <li><NuxtLink class="" to="/">Home</NuxtLink></li>
-          <li><NuxtLink class="active" to="/about">About</NuxtLink></li>
-          <li><NuxtLink to="/services">Services</NuxtLink></li>
-          <li><NuxtLink to="/portfolio">Portfolio</NuxtLink></li>
-          <li><NuxtLink to="/team">Team</NuxtLink></li>
-          <li><NuxtLink to="/blog">Blog</NuxtLink></li>
-          <li><NuxtLink to="/contact">Contact Us</NuxtLink></li>
+          <li><i class="bx bx-chevron-right"><NuxtLink class="" to="/">Home</NuxtLink></i></li>
+          <li><i class="bx bx-chevron-right"><NuxtLink class="active" to="/about">About</NuxtLink></i></li>
+          <li><i class="bx bx-chevron-right"><NuxtLink to="/services">Services</NuxtLink></i></li>
+          <li><i class="bx bx-chevron-right"><NuxtLink to="/portfolio">Portfolio</NuxtLink></i></li>
+          <li><i class="bx bx-chevron-right"><NuxtLink to="/team">Team</NuxtLink></i></li>
+          <li><i class="bx bx-chevron-right"><NuxtLink to="/blog">Blog</NuxtLink></i></li>
+          <li><i class="bx bx-chevron-right"><NuxtLink to="/contact">Contact Us</NuxtLink></i></li>
         </ul>
       </div>
 
