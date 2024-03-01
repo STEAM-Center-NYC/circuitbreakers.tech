@@ -48,13 +48,7 @@
 
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Our Services</h4>
-        <ul>
-          <li><i class="bx bx-chevron-right"></i><a>Web Design</a></li>
-          <li><i class="bx bx-chevron-right"></i><a>Web Development</a></li>
-          <li><i class="bx bx-chevron-right"></i><a>Project Management</a></li>
-          <li><i class="bx bx-chevron-right"></i><a>Marketing</a></li>
-          <li><i class="bx bx-chevron-right"></i><a>Graphic Design</a></li>
-        </ul>
+        <p>At Full Stack Development, we create websites from scratch, covering both the design you see and the inner workings behind the scenes. Our team knows many coding tools, so we can customize solutions for every project. Trust us to make websites that work great, look good, and grow with your needs.</p>
       </div>
 
       <div class="col-lg-3 col-md-6 footer-contact">
