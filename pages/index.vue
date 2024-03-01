@@ -6,27 +6,40 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Moderna</span></h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-          <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+          <h2 class="animate__animated animate__fadeInDown">“Learn by Doing And Assessing.”</h2>
+          <h3 class="animate__animated animate__fadeInUp" style="color: white;">- STEAM Philosophy</h3>
         </div>
       </div>
 
       <!-- Slide 2 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-          <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+          <h2 class="animate__animated animate__fadeInDown">“Don’t quote me.”</h2>
+          <h3 class="animate__animated animate__fadeInUp" style="color: white;">- Mr. Forlenza</h3>
         </div>
       </div>
 
       <!-- Slide 3 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-          <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+          <h2 class="animate__animated animate__fadeInDown">“If it ain’t broke don’t fix it.”</h2>
+          <h3 class="animate__animated animate__fadeInUp" style="color: white;">- Bert Lance</h3>
+        </div>
+      </div>
+
+      <!-- Slide 4 -->
+      <div class="carousel-item">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">“Just because something doesn’t do what you planned it to do doesn’t mean it’s useless.”</h2>
+          <h3 class="animate__animated animate__fadeInUp" style="color: white;">- Thomas Edison</h3>
+        </div>
+      </div>
+
+      <!-- Slide 5 -->
+      <div class="carousel-item">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">“When I wrote this code, only God and I understood what I did. Now only God knows.”</h2>
+          <h3 class="animate__animated animate__fadeInUp" style="color: white;">- Reddit User</h3>
         </div>
       </div>
 
@@ -47,74 +60,67 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Features</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h1>Welcome To <br> The Brooklyn S.T.E.A.M. Center</h1>
+          <hr>
         </div>
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="/assets/img/bm4.jpeg" class="img-fluid" alt="">
+            <img src="/assets/img/bm4.jpeg" class="img-fluid" alt="Picture facing the whole class of Full-Stack Development">
           </div>
           <div class="col-md-7 pt-4">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            <h2>Who We Are</h2>
+            <p style="font-size: larger;">
+              Welcome to a website made by one of the various pathways within the Brooklyn S.T.E.A.M Center! The S.T.E.A.M Center 
+              is a CTE school that focuses on a variety of pathways and one of these pathways is Full-Stack Development. Our cohort, 
+              Circuit Breakers, is a group of young and intelligent individuals who’ve all persevered through all the challenges that 
+              programming has brought us to become experienced in a variety of skills; However, programming isn’t the only thing we study 
+              within this pathway as its taught us to become better socializers and gain invaluable life skills that are used everyday within the workplace.
             </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-            </ul>
           </div>
         </div>
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="/assets/img/bm1.jpeg" class="img-fluid" alt="">
+            <img src="/assets/img/bm1.jpeg" class="img-fluid" alt="Picture facing 3 students and teacher working">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
-            <h3>Corporis temporibus maiores provident</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            <h2>What We Study</h2>
+            <p style="font-size: larger;">
+              In Full-Stack Development, we study many programming languages such as HTML & CSS, Python, Javascript, and more! 
+              We’ve also acquired multiple certifications like Python, HTML & CSS, and many others. On top of that, we also study 
+              Post-Secondary options because it’s also important to consider what our choices will be past high school and how to manage 
+              them.
             </p>
           </div>
         </div>
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="/assets/img/bm21.jpeg" class="img-fluid" alt="">
+            <img src="/assets/img/bm21.jpeg" class="img-fluid" alt="Picture on a group of students working">
           </div>
           <div class="col-md-7 pt-5">
-            <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-            <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
+            <h2>What We’ve Done</h2>
+            <p style="font-size: larger;">
+              The curriculum of our Full-Stack Development class includes an array of different, enriching projects that are both fun and 
+              satisfying to complete. Of this array, our most notable projects are our personal websites, our first Bootstrap websites, 
+              and now this website you are looking at! During the development of this website, we put together two whole years of education, 
+              hands-on experience, and teamwork to the test, and have since effectively shown our skills are something to be proud of!
+            </p>
           </div>
         </div>
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="/assets/img/bm3.jpeg" class="img-fluid" alt="">
+            <img src="/assets/img/bm3.jpeg" class="img-fluid" alt="Picture on a group of students working">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
-            <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            <h2>How the STEAM Center Has Affected Us</h2>
+            <p style="font-size: larger;">
+              During our time here we've been able to accomplish many things, reach many goals, and forge our paths to our eventual 
+              greatness! From assembling computers piece by piece to coding both the front and back end of our communal website, 
+              it's safe to say that we’ve accumulated knowledge, experience, and resources that we would never be able to get otherwise. Ever since we arrived here, 
+              we've been building upon our Agency, Social Capital, Competencies, Identity, and Equity, and every single one of us will be better off for it.
             </p>
           </div>
         </div>
