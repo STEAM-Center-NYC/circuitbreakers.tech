@@ -6,4 +6,4 @@ name: "Jaylin Edouard"
 team: "Projects PAGE "
 ---
 
-Hi im Jaylin Edouard and im a senior at the brooklyn STEAM center.
+Hi im Jaylin Edouard and im a senior at the brooklyn STEAM center. Working hard or hardly working.
