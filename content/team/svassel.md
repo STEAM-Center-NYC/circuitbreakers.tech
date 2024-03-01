@@ -1,5 +1,5 @@
 ---
-picture: '/team/Shamour.jpg'
+picture: '/team/Shamour.png'
 linkedin: 'https://www.linkedin.com/in/shamour-vassell-533352268/'
 website: 'https://ShamourV.github.io'
 name: 'Shamour Vassell'
