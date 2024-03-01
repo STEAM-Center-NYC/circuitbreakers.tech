@@ -6,4 +6,4 @@ name: 'Ethan Morse'
 team: ''
 ---
 
-Hello, I'm Ethan. I definitely WILL NOT grab you! :)
+Hello, I'm Ethan. I like turtles.
