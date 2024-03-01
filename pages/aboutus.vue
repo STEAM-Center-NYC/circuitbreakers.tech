@@ -68,7 +68,7 @@
 
             <div class="col-lg-3 col-6 text-center">
               <a>
-                <NuxtLink class="active" to="/projects">Projects</NuxtLink>
+                <NuxtLink class="active" to="/">Projects</NuxtLink>
               </a>
             </div>
           </div>
