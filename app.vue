@@ -40,7 +40,6 @@
           <li><i class="bx bx-chevron-right"><NuxtLink to="/services">Services</NuxtLink></i></li>
           <li><i class="bx bx-chevron-right"><NuxtLink to="/portfolio">Portfolio</NuxtLink></i></li>
           <li><i class="bx bx-chevron-right"><NuxtLink to="/team">Team</NuxtLink></i></li>
-          <li><i class="bx bx-chevron-right"><NuxtLink to="/blog">Blog</NuxtLink></i></li>
           <li><i class="bx bx-chevron-right"><NuxtLink to="/contact">Contact Us</NuxtLink></i></li>
         </ul>
       </div>
