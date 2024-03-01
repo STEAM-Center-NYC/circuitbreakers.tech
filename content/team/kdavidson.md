@@ -1,5 +1,5 @@
 ---
-picture: '/team/kdavidson.jpeg'
+picture: '/team/kdavidson.png'
 linkedin: 'https://www.linkedin.com/in/kasim-davidson-258633270/'
 website: 'https://kasloww.github.io/'
 name: 'Kasim Davidson'
