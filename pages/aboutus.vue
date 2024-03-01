@@ -38,7 +38,7 @@
                 <li><i class="bi bi-check2-circle"></i> Medgar Evers College Preparatory School</li>
                 <li><i class="bi bi-check2-circle"></i> Benjamin Banneker Academy</li>
                 <li><i class="bi bi-check2-circle"></i> Science Skills Center High School</li>
-                <li><i class="bi bi-check2-circle"></i> S.T.A.R Early College High School</li>
+                <li><i class="bi bi-check2-circle"></i> S.T.A.R. Early College High School</li>
                 <li><i class="bi bi-check2-circle"></i> Boys And Girls High School</li>
                 <li><i class="bi bi-check2-circle"></i>George Westinghouse Career And Technical High School </li>
               </ul>
@@ -80,7 +80,7 @@
         <div class="container">
           <div class="section-title">
             <h2>Our Skills</h2>
-            <p>What languages and web frameworks we've learned:</p>
+            <p>What languages and web frameworks we've learned, and many more!:</p>
           </div>
           <div class="skills-content">
             <div class="progress">
