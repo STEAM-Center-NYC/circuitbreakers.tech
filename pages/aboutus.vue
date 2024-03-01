@@ -20,7 +20,7 @@
         <div class="container">
           <div class="row">
             <div id="carouselExampleSlidesOnly" class="carousel slide col-lg-6" data-bs-ride="carousel"
-              data-bs-interval="1000">
+              data-bs-interval="3000">
               <div class="carousel-inner">
                 <div v-for="index in 10" :key="index" :class="{ 'carousel-item': true, 'active': index === 1 }">
                   <img :src="images[index - 1]" class="d-block w-100 about-img-fluid" :alt="'Image ' + index">
