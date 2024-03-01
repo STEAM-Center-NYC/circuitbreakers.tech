@@ -67,8 +67,8 @@
         <h3>About FSD</h3>
         <p>We are members in the Brooklyn Steam Center's CSIT program. This is the first year that we have two distinct paths. We are divided into two big areas in the IT industry: Cyber Security and Full Stack Development. These two roads lead to these two major industries. Even though we are divided into two distinct sectors, we nevertheless work together on certain initiatives, which ties us all into one big community. Together, we will use information technology and computer science to establish a solid foundation in the field of computing.</p>
         <div class="social-links mt-3">
-          <a href="https://www.instagram.com/bksteamcenter/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="https://www.linkedin.com/company/bksteamcenter/mycompany/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a to="https://www.instagram.com/bksteamcenter/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a to="https://www.linkedin.com/company/bksteamcenter/mycompany/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -85,7 +85,7 @@
     <!-- You can delete the links only if you purchased the pro version. -->
     <!-- Licensing information: https://bootstrapmade.com/license/ -->
     <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/ -->
-    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+    Designed by <a to="https://bootstrapmade.com/">BootstrapMade</a>
   </div>
 </div>
 </footer><!-- End Footer -->
