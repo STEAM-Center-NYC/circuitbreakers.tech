@@ -45,12 +45,11 @@
           <li><i class="bx bx-chevron-right"><NuxtLink to="/contact">Contact Us</NuxtLink></i></li>
         </ul>
       </div>
-
+      
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Our Services</h4>
         <p>At Full Stack Development, we create websites from scratch, covering both the design you see and the inner workings behind the scenes. Our team knows many coding tools, so we can customize solutions for every project. Trust us to make websites that work great, look good, and grow with your needs.</p>
       </div>
-
       <div class="col-lg-3 col-md-6 footer-contact">
         <h4>Contact Us</h4>
         <p>
