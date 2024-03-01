@@ -6,7 +6,7 @@
   <header id="header" class="fixed-top d-flex align-items-center header-transparent">
     <div class="container d-flex justify-content-between align-items-center">
       <div class="logo">
-        <h1 class="text-light"><NuxtLink to="/"><span>Circuit Breakers</span></NuxtLink></h1>
+        <h1 class="text-light"><NuxtLink to="/"><img src="/CircuitBreakersLogo.png" alt="Circuit Breakers Logo" style="padding-right: 30px;" class="img-fluid"><span>Circuit Breakers</span></NuxtLink></h1>
       </div>
       <nav id="navbar" class="navbar">
         <ul>
